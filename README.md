@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently a medical student, but hopefully psychiatry resident very soon!
+
+Also a life long coder: my public projects are organized into [lists in the ⭐Stars⭐ section](https://github.com/thiswillbeyourgithub?tab=stars).
+
+Interests: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
+
+If you want to get in touch: invite me to a private repository and exchange ✉️emails✉️!
+
+I also have a professional github account, linked on my profile page.
