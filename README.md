@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Currently a medical student, but hopefully psychiatry resident very soon!
 
-Also a life long coder: my public projects are organized into [lists in the ⭐Stars⭐ section](https://github.com/thiswillbeyourgithub?tab=stars).
+Also a life long coder: my public projects are organized into [lists in the ⭐Stars⭐ section](https://github.com/thiswillbeyourgithub?tab=stars). A few of them are in the `pinned` section.
 
 Interests: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
 
