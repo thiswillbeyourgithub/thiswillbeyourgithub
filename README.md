@@ -8,7 +8,7 @@ Self-taught developer, currently a medical student, hopefully psychiatry residen
 
 **To get in touch**: one of my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
 
-I also have a *"professional"* github account, linked on my profile page.
+I also have a *"professional"* [github account](https://github.com/Olivier-Cornelis/).
 
 ## Github Projects
 
