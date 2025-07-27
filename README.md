@@ -12,7 +12,7 @@ I also have a *"professional"* [github account](https://github.com/Olivier-Corne
 
 ## Github Projects
 
-To browser my projects, you can also go to [my stars page](https://github.com/thiswillbeyourgithub?tab=stars) and look at `lists`: they only contain my projects but are organized by themes. Both the list below and the "starred list" should be exhaustive of my *public* projects.
+To browser my projects, you can also go to [my stars page](https://github.com/thiswillbeyourgithub?tab=stars) and look at `lists`: they contain all my public projects (and only my projects) but are thematically organized. Both those "starred lists" and the list below should exhaustively list my *public* projects.
 A few of them are `pinned` to my profile page.
 
 All code is almost always only done by me.
