@@ -12,8 +12,10 @@ If you want to get in touch: one of my email is "`2hf` immediately followed by `
 
 I also have a *"professional"* github account, linked on my profile page.
 
+## Github projects
+
 <details>
-<summary>Summary of my github projects</summary>
+<summary>Click for summaries of my github projects</summary>
 
 This list was compiled on July 27th.
 
