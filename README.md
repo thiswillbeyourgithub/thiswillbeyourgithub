@@ -2,7 +2,7 @@
 
 Self-taught developer, currently a medical student, hopefully psychiatry resident soon!
 
-**Interests**: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
+**Interests**: everything AI & Neuroscience🧠, including in-betweens and even-remotely-related. This obviously includes computational psychiatry.
 
 **Approach & Personality**: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
 
