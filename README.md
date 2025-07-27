@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Life long coder, currently a medical student, hopefully psychiatry resident soon!
+Self-taught developer, currently a medical student, hopefully psychiatry resident soon!
 
 **Interests**: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
 
