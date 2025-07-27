@@ -151,6 +151,8 @@ I have some other private repositories that I don't publish here.
 
 </details>
 
+## Bounty Track Record
+
 Being dedicated to open source, I try to fund what I can using bounty incentives.
 
 <details>
