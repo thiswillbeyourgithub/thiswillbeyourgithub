@@ -6,10 +6,11 @@ Also a life long coder: my public projects are organized into [lists in the ⭐S
 
 Interests: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
 
-If you want to get in touch: my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
+Approach: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
 
-I also have a professional github account, linked on my profile page.
+If you want to get in touch: one of my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
 
+I also have a *"professional"* github account, linked on my profile page.
 Being dedicated to open source, I try to fund what I can using bounty incentives.
 
 <details>
