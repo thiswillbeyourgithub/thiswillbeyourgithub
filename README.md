@@ -1,25 +1,19 @@
 ## Hi there 👋
 
-Currently a medical student, but hopefully psychiatry resident very soon!
+Life long coder, currently a medical student, hopefully psychiatry resident soon!
 
-Also a life long coder: my public projects are organized into [lists in the ⭐Stars⭐ section](https://github.com/thiswillbeyourgithub?tab=stars). A few of them are in the `pinned` section.
+**Interests**: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
 
-Interests: everything AI & Neuroscience🧠, all in between and even remotely related! Very into computational psychiatry.
+**Approach & Personality**: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
 
-Approach: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
-
-If you want to get in touch: one of my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
+**To get in touch**: one of my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
 
 I also have a *"professional"* github account, linked on my profile page.
 
-## Github projects
+## Github Projects
 
-<details>
-<summary>Click for summaries of my github projects</summary>
-
-This list was compiled on July 27th.
-
-You can also go to [my stars page](https://github.com/thiswillbeyourgithub?tab=stars) and look at my lists: they only contain my projects but are organized by themes.
+To browser my projects, you can also go to [my stars page](https://github.com/thiswillbeyourgithub?tab=stars) and look at `lists`: they only contain my projects but are organized by themes. Both the list below and the "starred list" should be exhaustive of my *public* projects.
+A few of them are `pinned` to my profile page.
 
 All code is almost always only done by me.
 
@@ -27,7 +21,13 @@ Until somewhere 2025 no AI was used, all code with my actual fingers. Since 2025
 
 I have some other private repositories that I don't publish here.
 
-### Medicine or Computer Science
+
+*The list below was compiled on July 27th.*
+
+<details>
+<summary>Click for summaries of my github projects</summary>
+
+### Medicine & Computer Science
 - [wdoc](https://github.com/thiswillbeyourgithub/wdoc): Multi-modal document querying and summarization system integrating diverse content types with advanced RAG capabilities and LLM-powered semantic processing for comprehensive information extraction.
     - [OmniQA](https://github.com/thiswillbeyourgithub/OmniQA): Document indexing tool for seamless querying of any file format using large language models and vector search technology. Was superseeded by **wdoc**.
 - KnQuant: Advanced text processing library that converts unstructured text into searchable knowledge triplets using multi-modal embeddings and parallel processing architecture.
