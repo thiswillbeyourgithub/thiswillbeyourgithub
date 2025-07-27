@@ -22,7 +22,7 @@ Until somewhere 2025 no AI was used, all code with my actual fingers. Since 2025
 I have some other private repositories that I don't publish here.
 
 
-*The list below was compiled on July 27th.*
+*The list below was compiled on July 27th 2025.*
 
 <details>
 <summary>Click for summaries of my github projects</summary>
