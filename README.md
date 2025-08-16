@@ -6,6 +6,8 @@ Self-taught developer, currently a medical student, hopefully psychiatry residen
 
 **Approach & Personality**: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
 
+**Strength**: I think I'm good at working autonomously as when I hit issues as I'm used to creating solutions from scratch while also integrating well with teams as I'm used to collaborating to open source projects at various scales. For example: getting frustrated with keeping track of knowledge source in med school made me create [wdoc](https://github.com/thiswillbeyourgithub/wdoc/), having a new idea on using machine learning for psychiatry let me to create [QuestEA](https://github.com/thiswillbeyourgithub/QuestEA), as well as pretty much all my other projects listed down below.
+
 **To get in touch**: one of my email is "`2hf` immediately followed by `w1bgt` at `mailer.me`", or invite me to a private repository to exchange via other means.
 
 I also have a *"professional"* [github account](https://github.com/Olivier-Cornelis/).
