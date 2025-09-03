@@ -37,7 +37,8 @@ I have some other private repositories that I don't publish here.
 - [Beta-Variational-Autoencoder](https://github.com/thiswillbeyourgithub/Beta-Variational-Autoencoder): Deep learning model implementing beta-variational autoencoder architecture for dimensionality reduction and data compression using the scikit-learn API.
 - [TaguchiGridSearchConverter](https://github.com/thiswillbeyourgithub/TaguchiGridSearchConverter): Statistical optimization tool leveraging Taguchi orthogonal arrays to reduce hyperparameter search space while maintaining effective parameter coverage in machine learning experiments.
 - [save_to_zotero](https://github.com/thiswillbeyourgithub/save_to_zotero): Advanced command-line tool for automated webpage archival to PDF with metadata extraction and seamless integration into Zotero's reference management system across multiple devices.
-- [med-pharmacokinetic-simulator](https://github.com/thiswillbeyourgithub/Med-pharmacokinetic-simulator): Pharmacokinetic simulation tool that models and visualizes medication blood concentration over time to optimize dosing schedules.
+- [gradio_pharmacokinetic_simulator](https://github.com/thiswillbeyourgithub/gradio_pharmacokinetic_simulator): Pharmacokinetic simulation tool to help me improve my intuition about drug accumulation.
+    - [med-pharmacokinetic-simulator](https://github.com/thiswillbeyourgithub/Med-pharmacokinetic-simulator): Its predecessor many years prior. One of my very first coding projects!
 - [ADHD_european_drug_map](https://github.com/thiswillbeyourgithub/ADHD-european-drug-map): Data visualization tool for tracking and mapping the availability of ADHD medications across European countries using official EMA data sources.
 
 ### Anki
