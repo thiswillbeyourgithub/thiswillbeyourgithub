@@ -106,6 +106,7 @@ I have some other private repositories that I don't publish here.
 - [SAIC (SimpleAICommits)](https://github.com/thiswillbeyourgithub/SimpleAICcommits): Command line tool leveraging OpenAI models to automatically generate semantic commit messages based on git diffs and commit history.
 - [Quick_Whisper_Typer](https://github.com/thiswillbeyourgithub/Quick-Whisper-Typer): Speech recognition tool for hands-free text input, voice commands processing, and AI conversation, featuring low-latency transcription and multilingual support.
 - [simple_voice_chat](https://github.com/thiswillbeyourgithub/simple_voice_chat): Conversational interface integrating various speech-to-text, language model, and text-to-speech services for real-time voice interactions with AI assistants.
+- [AiderBuilder](https://github.com/thiswillbeyourgithub/AiderBuilder): Minimal script and prompt to give [aider.chat](https://aider.chat/) some autonomy by running in a loop and coordinating with itself using a text file.
 
 ### "Rot" tools
 *Tools leveraging deterministic time-based codes*
