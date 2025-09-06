@@ -4,7 +4,7 @@ Self-taught developer, currently a medical student, hopefully psychiatry residen
 
 **Interests**: everything AI & Neuroscience🧠, including in-betweens and even-remotely-related. This obviously includes computational psychiatry.
 
-**Approach & Personality**: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love interoperability, love repairing stuff.
+**Approach & Personality**: investing my time by coding from the grounds up, hate closed source systems and forcing others to reinvent the same stack, love collaboration, love distributed and resilient systems, love deep learning interoperability, love repairing stuff.
 
 **Strength**: Although I think I'm good at working with teams as I'm used to collaborating with open source projects at various scale, I also think I'm good at working autonomously as when I hit issues as I'm used to creating solutions from scratch. Examples of this are: getting frustrated with keeping track of knowledge source in med school made me create [wdoc](https://github.com/thiswillbeyourgithub/wdoc/), having a new idea on using machine learning for psychiatry let me to create [QuestEA](https://github.com/thiswillbeyourgithub/QuestEA), as well as pretty much all my other projects listed down below.
 
@@ -30,7 +30,7 @@ I have some other private repositories that I don't publish here.
 <summary>Click for summaries of my github projects</summary>
 
 ### Medicine & Computer Science
-- [repeng-research-fork](https://github.com/thiswillbeyourgithub/repeng-research-fork): fork of [rpeng](https://github.com/vgel/repeng/) by @vgel, to try to investigate personal theories about LLMs.
+- [repeng-research-fork](https://github.com/thiswillbeyourgithub/repeng-research-fork): fork of [rpeng](https://github.com/vgel/repeng/) by @vgel, to try to investigate personal theories about LLMs. This is relevant for LLM interpretability.
 - [wdoc](https://github.com/thiswillbeyourgithub/wdoc): Multi-modal document querying and summarization system integrating diverse content types with advanced RAG capabilities and LLM-powered semantic processing for comprehensive information extraction.
     - [OmniQA](https://github.com/thiswillbeyourgithub/OmniQA): Document indexing tool for seamless querying of any file format using large language models and vector search technology. Was superseeded by **wdoc**.
 - KnQuant (not yet pushed): Advanced text processing library that converts unstructured text into searchable knowledge triplets using multi-modal embeddings and parallel processing architecture.
