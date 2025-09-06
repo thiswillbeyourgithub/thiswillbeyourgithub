@@ -30,11 +30,11 @@ I have some other private repositories that I don't publish here.
 <summary>Click for summaries of my github projects</summary>
 
 ### Medicine & Computer Science
+- [repeng-research-fork](https://github.com/thiswillbeyourgithub/repeng-research-fork): fork of [rpeng](https://github.com/vgel/repeng/) by @vgel, to try to investigate personal theories about LLMs.
 - [wdoc](https://github.com/thiswillbeyourgithub/wdoc): Multi-modal document querying and summarization system integrating diverse content types with advanced RAG capabilities and LLM-powered semantic processing for comprehensive information extraction.
     - [OmniQA](https://github.com/thiswillbeyourgithub/OmniQA): Document indexing tool for seamless querying of any file format using large language models and vector search technology. Was superseeded by **wdoc**.
 - KnQuant (not yet pushed): Advanced text processing library that converts unstructured text into searchable knowledge triplets using multi-modal embeddings and parallel processing architecture.
 - [QuestEA](https://github.com/thiswillbeyourgithub/QuestEA): Research project merging numerical survey responses with semantic question embeddings to enhance patient data analysis and uncover hidden patterns in medical questionnaires.
-- [repeng-research-fork](https://github.com/thiswillbeyourgithub/repeng-research-fork): fork of [rpeng](https://github.com/vgel/repeng/) by @vgel, to try to investigate personal theories about LLMs.
 - [Beta-Variational-Autoencoder](https://github.com/thiswillbeyourgithub/Beta-Variational-Autoencoder): Deep learning model implementing beta-variational autoencoder architecture for dimensionality reduction and data compression using the scikit-learn API.
 - [TaguchiGridSearchConverter](https://github.com/thiswillbeyourgithub/TaguchiGridSearchConverter): Statistical optimization tool leveraging Taguchi orthogonal arrays to reduce hyperparameter search space while maintaining effective parameter coverage in machine learning experiments.
 - [save_to_zotero](https://github.com/thiswillbeyourgithub/save_to_zotero): Advanced command-line tool for automated webpage archival to PDF with metadata extraction and seamless integration into Zotero's reference management system across multiple devices.
